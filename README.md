@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Farhan Rzky Fauzi Setiawan
+Farhan Rizky Fauzi Setiawan
