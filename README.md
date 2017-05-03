@@ -2,3 +2,5 @@
 Just another repository
 
 Farhan Rizky Fauzi Setiawan
+
+motherfucker
